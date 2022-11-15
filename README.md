@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @08PRUDHVI19
-- 👀 I’m interested in ...
-- I'm currently studying as 1st year CSM student in Raghu Engineering College.
+- 👀 I’m interested in web development course
 - 📫 How to reach me https://www.linkedin.com/in/nirujogi-prudhvi-90458124b.
 
 <!---
